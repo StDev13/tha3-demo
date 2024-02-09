@@ -132,3 +132,5 @@ data/
 *.iml
 .idea/
 *.pt
+
+tha3venv/
